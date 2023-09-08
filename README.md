@@ -1,6 +1,5 @@
-
 <a href="https://buildship.com" target="_blank">
-<img width="1200" alt="BuildShip.com" src="https://github.com/rowyio/buildship/assets/307298/770515b7-61ee-413d-8a5b-e03b4fe819c9"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/buildship-app.appspot.com/o/website%2FBuildShipGithub.png?alt=media&token=aea69d8a-7920-482a-af67-acb108caf9b8"/>
 </a>
 <p >
 Low-code Visual Backend Builder. 
@@ -63,7 +62,7 @@ For the apps you are building, with no-code app builders (FlutterFlow, Webflow, 
 Watch a short walkthrough video 👇
 
 <a href="http://buildship.com/youtube" target="_blank">  
-<img src="https://github.com/rowyio/buildship/assets/307298/edc49090-1131-4cf5-a1ce-53faa9cc0ac8" width="440" border="10" />
+<img src="https://firebasestorage.googleapis.com/v0/b/buildship-app.appspot.com/o/website%2FBuildShipGithubVideo.png?alt=media&token=055b246c-6944-4fd3-9d65-d42844a3fcb0" width="440" border="10" />
 </a>
 
 ## Contribution Guide
