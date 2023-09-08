@@ -62,8 +62,8 @@ For the apps you are building, with no-code app builders (FlutterFlow, Webflow, 
 
 Watch a short walkthrough video 👇
 
-<a href="http://buildship.com/youtube" target="_blank"><img src="https://user-images.githubusercontent.com/307298/190351363-2878abd8-9b0c-45d0-b59f-198557d9f9b7.png" 
-alt="Cloud function in low-code using rowy" width="440" border="10" /></a>
+<a href="http://buildship.com/youtube" target="_blank"><img src="https://github.com/rowyio/buildship/assets/307298/edc49090-1131-4cf5-a1ce-53faa9cc0ac8" width="440" border="10" /></a>
+
 
 ## Contribution Guide
 
