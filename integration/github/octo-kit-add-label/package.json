@@ -1,0 +1,9 @@
+{
+  "id": "octo-kit-add-label",
+  "icon": {
+    "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "type": "URL"
+  },
+  "description": "Appends the provided labels to a Github PR/Issue using Octokit",
+  "name": "Add Labels to PR/Issue"
+}
