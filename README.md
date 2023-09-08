@@ -44,9 +44,9 @@ Get started fast with the ease of no-code, and fully extend with the power of lo
  
 ## What is a low-code visual backend builder?
 
-For the apps you are building, with no-code app builders (FlutterFlow, Webflow, Framer, Adalo, Bubble, BravoStudio...) or frontend frameworks (Next.js, React, Vue...), you need a backend to support scalable APIs, secure workflows, automation etc. BuildShip gives you a complete visual way to build these backend tasks scalably in an easy to use fully hosted experience. 
+For the apps you are building, with no-code app builders (FlutterFlow, Webflow, Framer, Adalo, Bubble, BravoStudio...) or frontend frameworks (Next.js, React, Vue...), you need a backend to support scalable APIs, secure workflows, automation, etc. BuildShip gives you a completely visual way to build these backend tasks scalably in an easy-to-use fully hosted experience. 
 
-✨✨ This means you don't need to wrangle or deploy things on the cloud platform, perform DevOps etc. Just Build and Ship, instantly 🚀
+✨✨ This means you don't need to wrangle or deploy things on the cloud platform, perform DevOps, etc. Just Build and Ship, instantly 🚀
 
 ## How can you get started with BuildShip?
 
@@ -62,8 +62,9 @@ For the apps you are building, with no-code app builders (FlutterFlow, Webflow, 
 
 Watch a short walkthrough video 👇
 
-<a href="http://buildship.com/youtube" target="_blank"><img src="https://github.com/rowyio/buildship/assets/307298/edc49090-1131-4cf5-a1ce-53faa9cc0ac8" width="440" border="10" /></a>
-
+<a href="http://buildship.com/youtube" target="_blank">  
+<img src="https://github.com/rowyio/buildship/assets/307298/edc49090-1131-4cf5-a1ce-53faa9cc0ac8" width="440" border="10" />
+</a>
 
 ## Contribution Guide
 
