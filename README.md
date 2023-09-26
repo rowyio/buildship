@@ -7,8 +7,9 @@ Create APIs, scheduled jobs, and backend workflows - powered by AI ✨
 </p>
 
 <p >
-In this BuildShip Nodeverse repo - find all the open-source cloneable templates, nodes, and workflow examples. 
-  <br/>
+In this BuildShip Nodeverse repo - find all the open-source cloneable templates, nodes, and workflow examples. Also, currently work in progress - we plan to open source the backend of BuildShip which will allow you to export and deploy the workflows created on BuildShip on your own cloud if you choose to. 
+
+  <br/> 
   Also, use this repo for reporting any bugs or feature requests for BuildShip.
 </p>
 
@@ -64,6 +65,10 @@ Watch a short walkthrough video 👇
 <a href="http://buildship.com/youtube" target="_blank">  
 <img src="https://firebasestorage.googleapis.com/v0/b/buildship-app.appspot.com/o/website%2FBuildShipGithubVideo.png?alt=media&token=055b246c-6944-4fd3-9d65-d42844a3fcb0" width="440" border="10" />
 </a>
+
+## Roadmap
+
+This open-source repo is a work-in-progress currently. We plan to open source the backend of BuildShip which will allow you to export and deploy the workflows created on BuildShip on your own cloud if you choose to. Plus this repo will be an ecosystem of all connectors and trigger nodes for others to share and contribute to.
 
 ## Contribution Guide
 
