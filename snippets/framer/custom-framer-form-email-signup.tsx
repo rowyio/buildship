@@ -1,16 +1,14 @@
-// Simple Framer form component for email signups.
-
 import React, { useState } from "react"
 import Example from "https://framer.com/m/framer/Example.js@^1.0.0"
 
 // BuildShip.com Open Source Form component for Framer
-export default function ExpertSubmissionForm(props) {
+export default function NewsletterSubscriptionForm(props) {
     // Paste your API link from BuildShip.com
     // Read tutorial here:
     // Watch tutorial video:
 
     // TODO: Update this with your BuildShip API or any external API handler
-    const formUrl = "https://projectid.buildship.run/formpath"
+    const formUrl = "https://<projectid>.buildship.run/<path>"
 
     // MAYBE: If you are adding more fields to your form in addition to email update here
     const [email, setEmail] = useState("")
@@ -46,11 +44,7 @@ export default function ExpertSubmissionForm(props) {
     }
 
     if (formStatus === "submitted") {
-        return (
-            <div style={responseText}>
-                Thank you for reaching out, we will be in touch soon.
-            </div>
-        )
+        return <div style={responseText}>Thank you for subscribing!</div>
     }
 
     if (formStatus === "error") {
@@ -59,7 +53,9 @@ export default function ExpertSubmissionForm(props) {
     return (
         <>
             {/* Label for the form */}
-            <div style={labelStyle}></div>
+            <div style={labelStyle}>
+                Subscribe to our product updates newsletter
+            </div>
             {/* Form */}
             <form onSubmit={onSubmit} style={containerStyle}>
                 <input
@@ -75,19 +71,9 @@ export default function ExpertSubmissionForm(props) {
         </>
     )
 }
+/// Updated Form Styles to match the provided image
 
-const textareaStyle = {
-    marginBottom: "1rem",
-    height: "150px",
-    resize: "none",
-    fontSize: "16px", // Smaller font size
-    padding: "0.75rem", // Comfortable padding
-    backgroundColor: "#18181B", // Background to match the container
-    border: "1px solid #333", // Subtle border
-    borderRadius: "12px", // Matching the container's border radius
-    color: "#FFF", // Text color
-}
-
+// Assuming a dark theme similar to the one in the image
 const containerStyle = {
     display: "flex", // Changed from flexDirection to display for correct CSS
     justifyContent: "space-between", // Align items side-by-side
