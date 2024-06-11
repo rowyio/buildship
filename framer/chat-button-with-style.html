@@ -1,0 +1,30 @@
+<style>
+.widget-button {
+                    cursor: pointer;
+                    outline: 0;
+                    color: #fff;
+                    background-color: #2C91ED;
+                    border-color: #2C91ED;
+                    display: inline-block;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    text-align: center;
+                    border: 1px solid transparent;
+                    padding: 16px 32px;
+                    font-size: 16px;
+                    border-radius: 20px;
+                    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;               
+  }
+</style>
+
+<script src="https://unpkg.com/@buildshipapp/chat-widget@^1" defer></script>
+
+<script>
+window.buildShipChatWidget = {config: {}, ...window.buildShipChatWidget}
+window.buildShipChatWidget.config.widgetTitle = "City Advisor";
+window.buildShipChatWidget.config.greetingMessage = "Hey! Which city tour plan can I help you with?"; 
+window.buildShipChatWidget.config.url = "https://wvgzkd.buildship.run/city_advisor";
+window.buildShipChatWidget.config.openOnLoad = true;
+</script>
+
+<button class="widget-button" data-buildship-chat-widget-button>Chat to try!</button>
